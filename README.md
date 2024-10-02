@@ -13,8 +13,8 @@ About Thumb Tap : https://fragrant-server-067.notion.site/THUMB-Tap-8744f90f4c96
 Manual : https://fragrant-server-067.notion.site/Manual-ENG-84b303437b5b4b8cb5377a452da615e8
 
 - App Download
-PlayStore (Andriod): https://play.google.com/store/apps/details?id=com.thumbtap.app
 
+PlayStore (Andriod): https://play.google.com/store/apps/details?id=com.thumbtap.app
 AppStore (iOS): https://apps.apple.com/<country>/app/<app-name>/id<app-ID>
 
 contact: thumbtapai@gmail.com 
