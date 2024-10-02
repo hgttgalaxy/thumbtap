@@ -15,6 +15,7 @@ Manual : https://fragrant-server-067.notion.site/Manual-ENG-84b303437b5b4b8cb537
 - App Download
 
 PlayStore (Andriod): https://play.google.com/store/apps/details?id=com.thumbtap.app
+
 AppStore (iOS): https://apps.apple.com/<country>/app/<app-name>/id<app-ID>
 
 contact: thumbtapai@gmail.com 
