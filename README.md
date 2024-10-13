@@ -1,6 +1,6 @@
 # thumbtap
 ai chat for smart phone
-
+![Image1](https://github.com/hgttgalaxy/thumbtap/blob/main/thumbtap_cover.png)
 - Mobile only (iOS / Android)
 - API Key of OPEN AI / CLAUDE / OPEN Router is required.
 - Supports character card V2 version. You can download it from CHUB by URL address or use PNG format character card.
